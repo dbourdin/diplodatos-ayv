@@ -8,6 +8,13 @@ TP Limpieza: AnalisisYCuracion/notebooks/Limpieza.ipynb
 
 TP Tablas: AnalisisYCuracion/notebooks/Ejercicio-tablas.ipynb
 
+### Aprendizaje No Supervisado
+Para poder correr el trabajo práctico, es necesario descargar el dataset de movielens:
+http://files.grouplens.org/datasets/movielens/ml-20m.zip
+Una vez descargado, ubicar los archivos ratings.csv y movies.csv dentro de la carpeta AprendizajeNoSupervisado/ml-20m/
+
+TP: AprendizajeNoSupervisado/TP_Reglas_de_asociacion.ipynb
+
 ##
 ### Pasos para correr las notebooks (Ubuntu)
 
