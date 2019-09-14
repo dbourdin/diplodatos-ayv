@@ -1,4 +1,7 @@
 # Diplodatos
+Bourdin, Damián - damian.bourdin@gmail.com
+Pizarro, Luz - mluzpizarro@gmail.com
+Villalón, Darío - dariovillalon17@gmail.com
 
 ### Análisis y Visualización
 TP: AnalisisYVisualizacion/02_practico_I.ipynb
